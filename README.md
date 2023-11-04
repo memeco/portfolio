@@ -1,4 +1,3 @@
-# portfolio
-Meu portfólio.
+# https://memeco.github.io
 
-Para ver o projeto clone/fork o projeto e dê 'npm install', depois dê 'npm start'.
+Meu portfólio.

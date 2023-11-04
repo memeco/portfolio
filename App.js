@@ -66,7 +66,7 @@ function App() {
       <Contato />
 
       <footer id="footer">
-        <div className="container">Portfólio &copy; 2023</div>
+        <div className="container">Meu Portfólio &copy; 2023</div>
       </footer>
     </div>
   );
