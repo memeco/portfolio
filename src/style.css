@@ -10,7 +10,6 @@ body {
     padding: 20px;
   }
   
-  
   nav a {
     text-decoration: none;
     color: #fff;
@@ -63,8 +62,9 @@ body {
   }
   
   #projetos li a img {
-    float: left;
-    width: 200px;
+     float: left;
+     max-width: 100%;
+     height: auto;
   }
   
   
@@ -81,7 +81,7 @@ body {
     box-shadow: #AAA 10px 10px;;
   }
   #portfolioimg {
-    width: 1000px;
+    max-width: 100%;
     height: auto;
   }
   input, textarea {
@@ -89,10 +89,13 @@ body {
     border:#000 1px solid;
     
   }
+  @media only screen and (max-width: 600px) {
+    #portfolioimg {
+      max-width: 500px;
+      height: auto;
+    }
+   }
 
-  @media screen and (max-width: 800px) {
-    #portfolioimg {width: 500px; height: auto}
-  }
   #msg {
     width: 400px;
     height: 220px;
