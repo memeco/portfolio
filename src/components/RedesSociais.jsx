@@ -26,7 +26,7 @@ function RedesSociais() {
             ></path>
           </svg>
           &nbsp;Facebook:{" "}
-          <a href="https://fb.com/emersonmp">https://fb.com/emersonmp</a>
+          <a href="https://fb.me/emersonmp">https://fb.me/emersonmp</a>
         </p>
         <p>
           <svg
