@@ -38,6 +38,7 @@ body {
   #sobre {
     background-color: #ccc;
   }
+  #sobre a {color: black;}
   
   #portfolio {
     background-color: #eee;
