@@ -7,10 +7,12 @@ import RedesSociais from "./components/RedesSociais";
 import Portfolio from "./components/Portfolio";
 import Contato from "./components/Contato";
 import Skills from "./components/Skills";
+import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton";
 
 function App() {
   return (
     <div>
+      <ScrollToTopButton />
       <header>
         <div className="container">
           <h1>Meu portfólio</h1>
