@@ -17,11 +17,30 @@ function Sobre() {
         <br />
         <p>
           Meu nome é Emerson Marques Pedro, também conhecido como "Memeco",
-          tenho 37 anos e sou sociólogo e cientista político pela USP (2010) e
-          desenvolvedor/programador Front-End com React formado pela SoulCode
-          Academy (2023).
+          tenho 37 anos e sou sociólogo e cientista político pela USP (2010),
+          cientista de dados pela Awari (2021), analista de dados certificado{" "}
+          <a href="https://www.coursera.org/account/accomplishments/professional-cert/BVEHSFR4UNES?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
+            pelo Google no Coursera
+          </a>{" "}
+          (2023) e desenvolvedor/programador Front-End com React formado&nbsp;
+          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a>{" "}
+          (2023).
         </p>
-        <p>Sou apaixonado por desenvolvimento/programação e música.</p>
+        <p>
+          Estou fazendo curso de Dev Full-Stack pela DevStars Tech chamado
+          PcDDev.
+        </p>
+        <p>
+          Também tenho um site, o{" "}
+          <a href="https://HackAgenda.com.br">HackAgenda</a>, uma agenda de
+          eventos de tecnologia/hackers pelo Brasil, ele foi fundado em setembro
+          de 2013. É um site em Wordpress.
+        </p>
+        <p>
+          Sou apaixonado por desenvolvimento/programação e música. Já fui à mais
+          de 300 shows, segundo meu{" "}
+          <a href="https://www.setlist.fm/user/memeco">Setlist.fm</a>.
+        </p>
         <p>Meu objetivo é aprender e seguir crescendo.</p>
         <p>
           Aqui você pode encontrar alguns detalhes sobre meus projetos e
