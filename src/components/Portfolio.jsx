@@ -11,19 +11,27 @@ function Portfolio() {
         <ul className="projetos">
           <li>
             <a href="https://HackAgenda.com.br/">
-              <h3>HackAgenda.com.br</h3>
-              <p>Agenda de eventos hackers e de tecnologia Brasil afora.</p>
+              <h3>HackAgenda.com.br (2013 ➔ presente)</h3>
+              <p>
+                Agenda de eventos hackers e de tecnologia Brasil afora feito em
+                WordPress.
+              </p>
             </a>
           </li>
-
+          <li>
+            <a href="https://memeco.github.io/">
+              <h3>Memeco.github.io (2023 ➔ presente)</h3>
+              <p>Este portfólio feito em React.</p>
+            </a>
+          </li>
           <li>
             <a href="https://trello.com/b/2m2eJTJd/quadro-portfolio">
-              <h3>Trello do portfólio</h3>
+              <h3>Trello do portfólio (2023 ➔ presente)</h3>
               <p>Trello desse projeto de portfólio.</p>
               <img
                 src="https://i.imgur.com/ZfwRSNa.png"
-                alt="Trello de portfólio"
-                title="Trello de portfólio"
+                alt="Trello do portfólio"
+                title="Trello do portfólio"
                 id="portfolioimg"
               />
             </a>
