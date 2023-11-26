@@ -101,3 +101,6 @@ body {
     width: 400px;
     height: 220px;
   }
+  .projetos a { color: #000; text-decoration: none;}
+  .projetos a:hover { color: #CCC; text-decoration: underline;}
+  .projetos a:active { color:active; text-decoration:underline;}
