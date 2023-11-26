@@ -17,8 +17,11 @@ function Sobre() {
         <br />
         <p>
           Meu nome é Emerson Marques Pedro, também conhecido como "Memeco",
-          tenho 37 anos e sou sociólogo e cientista político pela USP (2010),
-          cientista de dados pela Awari (2021), analista de dados certificado{" "}
+          tenho 37 anos e sou{" "}
+          <a href="https://i.imgur.com/1M9VA7B.jpg">
+            sociólogo e cientista político pela USP (2010)
+          </a>
+          , cientista de dados pela Awari (2021), analista de dados certificado{" "}
           <a href="https://www.coursera.org/account/accomplishments/professional-cert/BVEHSFR4UNES?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
             pelo Google no Coursera
           </a>{" "}
@@ -27,14 +30,14 @@ function Sobre() {
           (2023).
         </p>
         <p>
-          Estou fazendo curso de Dev Full-Stack pela DevStars Tech chamado
+          Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
           PcDDev.
         </p>
         <p>
           Também tenho um site, o{" "}
           <a href="https://HackAgenda.com.br">HackAgenda</a>, uma agenda de
           eventos de tecnologia/hackers pelo Brasil, ele foi fundado em setembro
-          de 2013. É um site em Wordpress.
+          de 2013 e é um site em WordPress.
         </p>
         <p>
           Sou apaixonado por desenvolvimento/programação e música. Já fui à mais
