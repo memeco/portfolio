@@ -60,6 +60,7 @@ body {
   #projetos li a {
     display: block;
     text-decoration: none;
+    color: black;
   }
   
   #projetos li a img {
