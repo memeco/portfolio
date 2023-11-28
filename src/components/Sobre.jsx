@@ -45,6 +45,7 @@ function Sobre() {
           <a href="https://www.setlist.fm/user/memeco">Setlist.fm</a>.
         </p>
         <p>Meu objetivo é aprender e seguir crescendo.</p>
+        <p>Sou PcD, pois tenho esclerose múltipla.</p>
         <p>
           Aqui você pode encontrar alguns detalhes sobre meus projetos e
           habilidades.
