@@ -11,6 +11,7 @@ function Skills() {
         <div className="row">
           <div className="col-md-6">
             <h3>Tecnologias que uso no meu dia-a-dia:</h3>
+
             <p>
               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
                 <img
@@ -32,6 +33,7 @@ function Skills() {
                 </div>
               </a>
             </p>
+
             <p>
               <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
                 <img
@@ -53,6 +55,29 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <a href="https://getbootstrap.com/">
+                <img
+                  alt="Bootstrap"
+                  title="Bootstrap"
+                  src="https://camo.githubusercontent.com/9c95e40c32ff194473482da210a1bf59d1fbe77047e8ac921fc577c983acd0d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d76352e342e322d626c756576696f6c65742e737667"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "85%" }}
+                    aria-valuenow="85"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    85%
+                  </div>
+                </div>
+              </a>
+            </p>
+
             <p>
               <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img
@@ -95,6 +120,29 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <a href="https://www.mysql.com/">
+                <img
+                  alt="MySQL"
+                  title="MySQL"
+                  src="https://camo.githubusercontent.com/b6e13895fd0d291c55024955ceefd74eeed61f4cb303ce4ddc9f5505c41bd078/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d76382e302d626c75652e737667"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
             <p>
               <a href="https://nodejs.org/">
                 <img
