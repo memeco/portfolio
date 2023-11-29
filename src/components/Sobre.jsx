@@ -31,7 +31,7 @@ function Sobre() {
         </p>
         <p>
           Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
-          PcDDev.
+          PcDDevs.
         </p>
         <p>
           Também tenho um site, o{" "}
@@ -45,7 +45,11 @@ function Sobre() {
           <a href="https://www.setlist.fm/user/memeco">Setlist.fm</a>.
         </p>
         <p>Meu objetivo é aprender e seguir crescendo.</p>
-        <p>Sou PcD, pois tenho esclerose múltipla.</p>
+        <p>
+          Tenho cidadania brasileira 🇧🇷 e portuguesa 🇵🇹, com RG e passaporte dos
+          2 países.
+        </p>
+        <p>Sou PcD, pois tenho esclerose múltipla (CID G 35).</p>
         <p>
           Aqui você pode encontrar alguns detalhes sobre meus projetos e
           habilidades.

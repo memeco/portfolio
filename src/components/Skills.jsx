@@ -11,7 +11,9 @@ function Skills() {
         <div className="row">
           <div className="col-md-6">
             <h3>Tecnologias que uso no meu dia-a-dia:</h3>
-
+            <p>
+              <h4>Linguagens de marcação:</h4>
+            </p>
             <p>
               <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
                 <img
@@ -77,7 +79,9 @@ function Skills() {
                 </div>
               </a>
             </p>
-
+            <p>
+              <h4>Linguagens de programação:</h4>
+            </p>
             <p>
               <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
                 <img
@@ -116,28 +120,6 @@ function Skills() {
                     aria-valuemax="100"
                   >
                     80%
-                  </div>
-                </div>
-              </a>
-            </p>
-
-            <p>
-              <a href="https://www.mysql.com/">
-                <img
-                  alt="MySQL"
-                  title="MySQL"
-                  src="https://camo.githubusercontent.com/b6e13895fd0d291c55024955ceefd74eeed61f4cb303ce4ddc9f5505c41bd078/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d76382e302d626c75652e737667"
-                />
-                <div className="progress">
-                  <div
-                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
-                    role="progressbar"
-                    style={{ width: "70%" }}
-                    aria-valuenow="70"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  >
-                    70%
                   </div>
                 </div>
               </a>
@@ -184,6 +166,35 @@ function Skills() {
                   </div>
                 </div>
               </a>
+            </p>
+
+            <p>
+              <h4>Banco de Dados:</h4>
+            </p>
+            <p>
+              <a href="https://www.mysql.com/">
+                <img
+                  alt="MySQL"
+                  title="MySQL"
+                  src="https://camo.githubusercontent.com/b6e13895fd0d291c55024955ceefd74eeed61f4cb303ce4ddc9f5505c41bd078/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d76382e302d626c75652e737667"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <h4>Softwares:</h4>
             </p>
             <p>
               <a href="https://code.visualstudio.com">
