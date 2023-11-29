@@ -146,6 +146,29 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <a href="https://www.r-project.org/">
+                <img
+                  src="https://camo.githubusercontent.com/85e127534fa255bc19e36880323af0fd56dcd301ba28493634a1196250711eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d522d626c75652e737667"
+                  alt="R"
+                  title="R"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
             <p>
               <a href="https://www.python.org/">
                 <img
