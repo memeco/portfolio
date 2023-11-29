@@ -215,7 +215,27 @@ function Skills() {
                 </div>
               </a>
             </p>
-
+            <p>
+              <a href="https://www.mongodb.com/">
+                <img
+                  alt="MongoDB"
+                  title="MongoDB"
+                  src="https://camo.githubusercontent.com/83162c756f0b623759ad4f64d5965d86bc1907de7a7cdec7ffd8aede8adee62f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
             <p>
               <h4>Softwares:</h4>
             </p>
