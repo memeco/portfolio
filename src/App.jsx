@@ -16,6 +16,11 @@ function App() {
       <header>
         <div className="container">
           <h1>Meu portfólio</h1>
+          <p>
+            <a href="https://memeco-github-io.translate.goog/?_x_tr_sl=pt&_x_tr_tl=en&_x_tr_hl=pt-BR&_x_tr_pto=wapp">
+              Translate to English.
+            </a>
+          </p>
         </div>
       </header>
 
