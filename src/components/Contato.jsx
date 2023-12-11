@@ -10,7 +10,10 @@ function Contato() {
 
         <p>
           Envie um e-mail para{" "}
-          <a href="mailto:emerson.pedro@alumni.usp.br">
+          <a
+            title="emerson.pedro@alumni.usp.br"
+            href="mailto:emerson.pedro@alumni.usp.br"
+          >
             emerson.pedro@alumni.usp.br
           </a>{" "}
         </p>

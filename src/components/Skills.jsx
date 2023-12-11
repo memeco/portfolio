@@ -199,7 +199,7 @@ function Skills() {
                 <img
                   alt="MySQL"
                   title="MySQL"
-                  src="https://camo.githubusercontent.com/b6e13895fd0d291c55024955ceefd74eeed61f4cb303ce4ddc9f5505c41bd078/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d76382e302d626c75652e737667"
+                  src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -285,7 +285,7 @@ function Skills() {
           <div className="col-md-6">
             <h3>Línguas:</h3>
             <p>
-              Português:
+              🇧🇷 Português:
               <div className="progress">
                 <div
                   className="progress-bar progress-bar-striped progress-bar-animated bg-success"
@@ -300,7 +300,7 @@ function Skills() {
               </div>
             </p>
             <p>
-              Inglês:
+              🇬🇧 Inglês:
               <div className="progress">
                 <div
                   className="progress-bar progress-bar-striped progress-bar-animated bg-success"
@@ -315,7 +315,7 @@ function Skills() {
               </div>
             </p>
             <p>
-              Espanhol:
+              🇪🇸 Espanhol:
               <div className="progress">
                 <div
                   className="progress-bar progress-bar-striped progress-bar-animated bg-success"
@@ -330,7 +330,7 @@ function Skills() {
               </div>
             </p>
             <p>
-              Francês:
+              🇫🇷 Francês:
               <div className="progress">
                 <div
                   className="progress-bar progress-bar-striped progress-bar-animated bg-success"
@@ -345,7 +345,7 @@ function Skills() {
               </div>
             </p>
             <p>
-              Italiano:
+              🇮🇹 Italiano:
               <div className="progress">
                 <div
                   className="progress-bar progress-bar-striped progress-bar-animated bg-success"

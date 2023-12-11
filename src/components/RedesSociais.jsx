@@ -216,7 +216,7 @@ function RedesSociais() {
             <g id="Layer_1" />
           </svg>
           &nbsp;Dev.To:{" "}
-          <a href="https://Dev.To/memeco">https://dev.to/memeco</a>{" "}
+          <a href="https://Dev.To/memeco">https://dev.to/memeco</a> (em inglês){" "}
         </p>
       </div>
     </section>
