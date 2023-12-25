@@ -170,6 +170,28 @@ function Skills() {
             </p>
 
             <p>
+              <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html">
+                <img
+                  alt="Java"
+                  title="Java"
+                  src="https://camo.githubusercontent.com/ea4805fe1ffdc1abae1c8b77c3ec2f4af57c9a40ccd715337c6b579d8998aa1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d382532422d626c75652e737667"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "75%" }}
+                    aria-valuenow="75"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    75%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
               <a href="https://www.python.org/">
                 <img
                   alt="Python"

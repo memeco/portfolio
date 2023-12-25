@@ -9,12 +9,12 @@ function Contato() {
         <h2>Contato</h2>
 
         <p>
-          Envie um e-mail para{" "}
+          Envie um e-mail para
           <a
             title="emerson.pedro@alumni.usp.br"
             href="mailto:emerson.pedro@alumni.usp.br"
           >
-            emerson.pedro@alumni.usp.br
+            &nbsp;emerson.pedro@alumni.usp.br
           </a>{" "}
         </p>
       </div>
