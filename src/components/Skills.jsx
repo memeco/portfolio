@@ -263,7 +263,7 @@ function Skills() {
               <h4>Sites:</h4>
             </p>
             <p>
-              <a href="https://code.visualstudio.com">
+              <a href="https://trello.com/u/emersonmp/boards">
                 <img
                   alt="Trello"
                   title="Trello"
