@@ -258,6 +258,54 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <h4>Sites:</h4>
+            </p>
+            <p>
+              <a href="https://code.visualstudio.com">
+                <img
+                  alt="Trello"
+                  title="Trello"
+                  src="https://camo.githubusercontent.com/c479578e497fee64635533a15cfc7716bbae54363beb6e67104de1d3391b0066/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030373942463f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "100%" }}
+                    aria-valuenow="100"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    100%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://github.com/memeco">
+                <img
+                  alt="GitHub"
+                  title="GitHub"
+                  src="https://camo.githubusercontent.com/cb501cb6971aff81421503d9b02fbc912c38eb3196e9f140ef7636ee366701b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "95%" }}
+                    aria-valuenow="95"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    95%
+                  </div>
+                </div>
+              </a>
+            </p>
+
             <p>
               <h4>Softwares:</h4>
             </p>
@@ -282,12 +330,79 @@ function Skills() {
                 </div>
               </a>
             </p>
+
             <p>
               <a href="https://wordpress.org/">
                 <img
                   alt="WordPress"
                   title="WordPress"
                   src="https://camo.githubusercontent.com/c27e789f3ddaa2dd0dd49edcab7be0742bcd51cb24ec4be1a5b4ca37be0e387a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576f726450726573732d3231373539423f6c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "95%" }}
+                    aria-valuenow="95"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    95%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://www.apple.com/macos/">
+                <img
+                  alt="MacOS"
+                  title="MacOS"
+                  src="https://camo.githubusercontent.com/882be16fed56f782f4c8ec217eb1222bab6b180aaa31827527d55005ff02f7c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "100%" }}
+                    aria-valuenow="100"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    100%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://www.microsoft.com/windows">
+                <img
+                  alt="Windows"
+                  title="Windows"
+                  src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "90%" }}
+                    aria-valuenow="90"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    90%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://ubuntu.com/download">
+                <img
+                  alt="Ubuntu"
+                  title="Ubuntu"
+                  src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
