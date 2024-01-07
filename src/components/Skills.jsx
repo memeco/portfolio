@@ -19,7 +19,7 @@ function Skills() {
                 <img
                   alt="HTML5"
                   title="HTML5"
-                  src="https://camo.githubusercontent.com/d84a97169f367252b038bd49673b72ddaacd1aa629fab5ca98c617576f4df0ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/068ce2420bb9e9f5101b79975585c860737246530a71c5ddb6024de5b755c59a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -41,7 +41,7 @@ function Skills() {
                 <img
                   alt="CSS3"
                   title="CSS3"
-                  src="https://camo.githubusercontent.com/885c3621e019c7ee86f21e0ae296c234962e666b6659350e7ba29d94cd176af1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3135373242363f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/6bebbdf1fb783f3ef72ed438f8736e6c5ee28f13dbedc7305be8e6475658f964/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -63,7 +63,7 @@ function Skills() {
                 <img
                   alt="Bootstrap"
                   title="Bootstrap"
-                  src="https://camo.githubusercontent.com/9c95e40c32ff194473482da210a1bf59d1fbe77047e8ac921fc577c983acd0d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d76352e342e322d626c756576696f6c65742e737667"
+                  src="https://camo.githubusercontent.com/79fcd49095579192d8a2829492528a98cc9f2ee98ce4fe93ce8306d80a4bafdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d76352e342e322d626c756576696f6c65742e737667"
                 />
                 <div className="progress">
                   <div
@@ -87,7 +87,7 @@ function Skills() {
                 <img
                   alt="JavaScript"
                   title="JavaScript"
-                  src="https://camo.githubusercontent.com/7db489a0693acdc3a7251ca96e10488ac19269a678fbfc8be4d50035de849d0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4637444631453f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/7ce424a720e4452bfbd3e7fcf6f607fb96b285a6f30df6961b11c7143bccedd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
                 />
                 <div className="progress">
                   <div
@@ -108,7 +108,7 @@ function Skills() {
                 <img
                   alt="React"
                   title="React"
-                  src="https://camo.githubusercontent.com/cd1477459fb25aeab339332013164fd2d43de367bce96df822079bb503475e0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/22859a4cac94264f4697c9e3074df9970a9021c6c5444c46b6471dfc56a6b3cf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b"
                 />
                 <div className="progress">
                   <div
@@ -130,7 +130,7 @@ function Skills() {
                 <img
                   alt="Node.js"
                   title="Node.js"
-                  src="https://camo.githubusercontent.com/83350497b4972a45c730b7971a3adc783857596f95f9248c58541e4ad2bc625a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333393933333f6c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/2bfa6ef9c8359a248f2cfe5ce780ffc0e06c187f8f1cd2e62faedcd35f29940d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -150,7 +150,7 @@ function Skills() {
             <p>
               <a href="https://www.r-project.org/">
                 <img
-                  src="https://camo.githubusercontent.com/85e127534fa255bc19e36880323af0fd56dcd301ba28493634a1196250711eab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d522d626c75652e737667"
+                  src="https://camo.githubusercontent.com/84745b842e44ee05f0a763991cbc8305e02ede0c9efac037dff9daaae0e028fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d522d626c75652e737667"
                   alt="R"
                   title="R"
                 />
@@ -174,7 +174,7 @@ function Skills() {
                 <img
                   alt="Java"
                   title="Java"
-                  src="https://camo.githubusercontent.com/ea4805fe1ffdc1abae1c8b77c3ec2f4af57c9a40ccd715337c6b579d8998aa1a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d382532422d626c75652e737667"
+                  src="https://camo.githubusercontent.com/6ea8b31c3fd24755abccfa54d41d20bb7a082bd088562eaf0b11757ad4da2a01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d382532422d626c75652e737667"
                 />
                 <div className="progress">
                   <div
@@ -196,7 +196,7 @@ function Skills() {
                 <img
                   alt="Python"
                   title="Python"
-                  src="https://camo.githubusercontent.com/80961983b84d0feb040afb31b1516b52b88a22717e671b170c32e2dac5e8efee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/115851705817be297409954f33d4ef4ebb73c24230e539ab0d9c2a1a985c6691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -221,7 +221,7 @@ function Skills() {
                 <img
                   alt="MySQL"
                   title="MySQL"
-                  src="https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/b26699b50f121ded46e4f9f975eb7f48a9eb43e81582986c4b98766592576c01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -242,7 +242,7 @@ function Skills() {
                 <img
                   alt="MongoDB"
                   title="MongoDB"
-                  src="https://camo.githubusercontent.com/83162c756f0b623759ad4f64d5965d86bc1907de7a7cdec7ffd8aede8adee62f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/87a0e30618300593420d9e7f4c6da08f4a18beb2d042544d2e8519aa5908ff55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -267,7 +267,7 @@ function Skills() {
                 <img
                   alt="Trello"
                   title="Trello"
-                  src="https://camo.githubusercontent.com/c479578e497fee64635533a15cfc7716bbae54363beb6e67104de1d3391b0066/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030373942463f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/76f9f8990f801e60d0c30e61d180a091f6e4ce7ee4d4f02ad0885be8312fa83c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d3030373942463f7374796c653d666f722d7468652d6261646765266c6f676f3d7472656c6c6f266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -289,7 +289,7 @@ function Skills() {
                 <img
                   alt="GitHub"
                   title="GitHub"
-                  src="https://camo.githubusercontent.com/cb501cb6971aff81421503d9b02fbc912c38eb3196e9f140ef7636ee366701b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/a68fdafff2c458721dd1423490517ca3e726b7e3d21eac37ae9d308858a83348/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -314,7 +314,7 @@ function Skills() {
                 <img
                   alt="Visual Studio Code Editor"
                   title="Visual Studio Code Editor"
-                  src="https://camo.githubusercontent.com/09d5b2acec49e07670a361469e10b41dd2ca9383bab6c5457e30f54a97f3691e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030374143433f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/e9571766a385ecbc476c8d653278fae6e9df04a233980521c98b2a14762463e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -336,7 +336,7 @@ function Skills() {
                 <img
                   alt="WordPress"
                   title="WordPress"
-                  src="https://camo.githubusercontent.com/c27e789f3ddaa2dd0dd49edcab7be0742bcd51cb24ec4be1a5b4ca37be0e387a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576f726450726573732d3231373539423f6c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465267374796c653d666c6174"
+                  src="https://camo.githubusercontent.com/3c66c14b5bd2a3fdbd8bf493536e558979f1f67c9ac3e9111551a9ae5161cf62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726470726573732d3231373539423f7374796c653d666c6174266c6f676f3d776f72647072657373266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -358,7 +358,7 @@ function Skills() {
                 <img
                   alt="MacOS"
                   title="MacOS"
-                  src="https://camo.githubusercontent.com/882be16fed56f782f4c8ec217eb1222bab6b180aaa31827527d55005ff02f7c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/6bd9549d22a5df1c87aa6b9a4d98f32bc2805378f4d7c16853e18dbe4784403f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -380,7 +380,7 @@ function Skills() {
                 <img
                   alt="Windows"
                   title="Windows"
-                  src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -402,7 +402,7 @@ function Skills() {
                 <img
                   alt="Ubuntu"
                   title="Ubuntu"
-                  src="https://camo.githubusercontent.com/d6de31463470dd4540e7ece7849e6d38d423825f113ea4ae639f4dcfd0392d82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"
+                  src="https://camo.githubusercontent.com/b51b672b44d8445dbcc388e0beb6122800b2620264b029c1d0d985f94f6e9732/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
