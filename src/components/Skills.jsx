@@ -170,6 +170,28 @@ function Skills() {
             </p>
 
             <p>
+              <a href=" https://dotnet.microsoft.com/languages/csharp">
+                <img
+                  alt="C#"
+                  title="C#"
+                  src="https://camo.githubusercontent.com/7df103f000ac6adb28b73e1d276ef1f79f7cf33b2301bbb86ca2ca0bc6063c8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d446576656c6f7065722d323339313230"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "50%" }}
+                    aria-valuenow="50"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    50%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
               <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html">
                 <img
                   alt="Java"
