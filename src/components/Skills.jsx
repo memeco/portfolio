@@ -170,11 +170,33 @@ function Skills() {
             </p>
 
             <p>
-              <a href=" https://dotnet.microsoft.com/languages/csharp">
+              <a href="https://dotnet.microsoft.com/languages/csharp">
                 <img
                   alt="C#"
                   title="C#"
                   src="https://camo.githubusercontent.com/7df103f000ac6adb28b73e1d276ef1f79f7cf33b2301bbb86ca2ca0bc6063c8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d446576656c6f7065722d323339313230"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "50%" }}
+                    aria-valuenow="50"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    50%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+                <img
+                  alt="C"
+                  title="C"
+                  src="https://camo.githubusercontent.com/cc76e9164738e46bdad0b7dd2edd9b01c1880147c495cbf240024c2727a1ae4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d6c616e67756167652d626c7565"
                 />
                 <div className="progress">
                   <div
