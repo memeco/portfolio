@@ -462,6 +462,50 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <a href="https://kali.org">
+                <img
+                  alt="Kali"
+                  title="Kali"
+                  src="https://camo.githubusercontent.com/72399271d51ea24a45f7c0fa4228bc4f88b2ad430d6db2b392fe6ac63539a328/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c692d3236384245453f7374796c653d666f722d7468652d6261646765266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://azure.microsoft.com/">
+                <img
+                  alt="Microsoft Azure"
+                  title="Microsoft Azure"
+                  src="https://camo.githubusercontent.com/c72bc3044e18d8ee65cb8f12a64716c1da7837026d3db982dc096a1ea0aa2663/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f417a7572652d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
+                  </div>
+                </div>
+              </a>
+            </p>
           </div>
           <div className="col-md-6">
             <h3>Línguas:</h3>
