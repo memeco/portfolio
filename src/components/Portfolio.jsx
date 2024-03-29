@@ -1,4 +1,4 @@
-// components/Portfolio.js
+// components/Portfolio.jsx
 
 import React from "react";
 
@@ -9,6 +9,13 @@ function Portfolio() {
         <h2>Meu portfólio</h2>
 
         <ul className="projetos">
+          <li>
+            <a href="https://github.com/memeco?tab=repositories">
+              <h3>Repositórios do meu GitHub (2012 ➔ presente)</h3>
+              <p>Repositórios do meu GitHub.</p>
+            </a>
+          </li>
+
           <li>
             <a href="https://HackAgenda.com.br/">
               <h3>HackAgenda.com.br (2013 ➔ presente)</h3>
@@ -21,7 +28,7 @@ function Portfolio() {
           <li>
             <a href="https://memeco.github.io/">
               <h3>Memeco.github.io (2023 ➔ presente)</h3>
-              <p>Este portfólio feito em React.</p>
+              <p>Este portfólio feito em React no GitHub Pages.</p>
             </a>
           </li>
           <li>
