@@ -8,6 +8,7 @@ import Portfolio from "./components/Portfolio";
 import Contato from "./components/Contato";
 import Skills from "./components/Skills";
 import ScrollToTopButton from "./components/ScrollToTopButton/ScrollToTopButton";
+import Certificado from "./components/Certificado";
 
 function App() {
   return (
@@ -96,6 +97,17 @@ function App() {
                   </a>
                 </li>
                 <li className="nav-item">
+                  <a
+                    className="nav-link"
+                    href="#certificado"
+                    title="Meus certificados"
+                    alt="Meus certificados"
+                  >
+                    Meus certificados{" "}
+                  </a>
+                </li>
+
+                <li className="nav-item">
                   <a className="nav-link" href="#contato" title="Contato">
                     Contato
                   </a>
@@ -110,6 +122,7 @@ function App() {
       <Skills />
       <RedesSociais />
       <Portfolio />
+      <Certificado />
       <Contato />
 
       <footer id="footer">
