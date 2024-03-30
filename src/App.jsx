@@ -69,6 +69,16 @@ function App() {
                 <li className="nav-item">
                   <a
                     className="nav-link"
+                    href="https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf"
+                    title="Meu CV"
+                    alt="Meu CV"
+                  >
+                    Meu CV
+                  </a>
+                </li>
+                <li className="nav-item">
+                  <a
+                    className="nav-link"
                     href="#skills"
                     title="Skills"
                     alt="Skills"
