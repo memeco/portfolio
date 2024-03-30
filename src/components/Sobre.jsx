@@ -25,13 +25,16 @@ function Sobre() {
           <a href="https://www.coursera.org/account/accomplishments/professional-cert/BVEHSFR4UNES?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
             pelo Google no Coursera
           </a>{" "}
-          (2023) e desenvolvedor/programador Front-End com React formado&nbsp;
-          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a>{" "}
-          (2023).
+          e desenvolvedor/programador Front-End com React formado&nbsp;
+          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a> .
         </p>
         <p>
           Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
           PcDDevs.
+        </p>
+        <p>
+          Atualmente também estou fazendo o Bootcamp da Microsoft sobre nuvem e
+          inteligência artificial pela SoulCode Academy.
         </p>
         <p>
           Também tenho um site, o{" "}
@@ -53,6 +56,13 @@ function Sobre() {
         <p>
           Aqui você pode encontrar alguns detalhes sobre meus projetos e
           habilidades.
+        </p>
+        <p>
+          E aqui está meu{" "}
+          <a href="https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf">
+            Curriculum Vitae 2024
+          </a>
+          .
         </p>
       </div>
     </section>

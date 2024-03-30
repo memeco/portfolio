@@ -7,6 +7,8 @@ function RedesSociais() {
     <section id="redes" className="py-5">
       <div className="container">
         <h2>Redes Sociais</h2>
+        <br />
+        <p>Minhas redes sociais:</p>
         <p>
           <svg
             xmlns="http://www.w3.org/2000/svg"

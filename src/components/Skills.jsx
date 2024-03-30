@@ -8,9 +8,11 @@ function Skills() {
       <div className="container">
         <h2>Skills</h2>
         <br />
+        <p>Minhas habilidades em tecnologia e línguas que falo:</p>
         <div className="row">
           <div className="col-md-6">
             <h3>Tecnologias que uso no meu dia-a-dia:</h3>
+
             <p>
               <h4>Linguagens de marcação:</h4>
             </p>
@@ -304,7 +306,7 @@ function Skills() {
             </p>
 
             <p>
-              <h4>Sites:</h4>
+              <h4>Sites e softwares:</h4>
             </p>
             <p>
               <a href="https://trello.com/u/emersonmp/boards">
@@ -350,9 +352,6 @@ function Skills() {
               </a>
             </p>
 
-            <p>
-              <h4>Softwares:</h4>
-            </p>
             <p>
               <a href="https://code.visualstudio.com">
                 <img
@@ -444,8 +443,8 @@ function Skills() {
             <p>
               <a href="https://ubuntu.com/download">
                 <img
-                  alt="Ubuntu"
-                  title="Ubuntu"
+                  alt="Ubuntu Linux"
+                  title="Ubuntu Linux"
                   src="https://camo.githubusercontent.com/b51b672b44d8445dbcc388e0beb6122800b2620264b029c1d0d985f94f6e9732/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5562756e74752d4539353432303f7374796c653d666f722d7468652d6261646765266c6f676f3d7562756e7475266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
@@ -466,8 +465,8 @@ function Skills() {
             <p>
               <a href="https://kali.org">
                 <img
-                  alt="Kali"
-                  title="Kali"
+                  alt="Kali Linux"
+                  title="Kali Linux"
                   src="https://camo.githubusercontent.com/72399271d51ea24a45f7c0fa4228bc4f88b2ad430d6db2b392fe6ac63539a328/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b616c692d3236384245453f7374796c653d666f722d7468652d6261646765266c6f676f3d6b616c696c696e7578266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
@@ -502,6 +501,28 @@ function Skills() {
                     aria-valuemax="100"
                   >
                     70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://aws.amazon.com/">
+                <img
+                  alt="AWS Amaozn Web Services"
+                  title="AWS Amazon Web Services"
+                  src="https://camo.githubusercontent.com/d45fba5489ff4e4405c8784c954412713c065192681561c5e0dadb1f2321156c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532d416d617a6f6e5f5765625f53657276696365732d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "65%" }}
+                    aria-valuenow="65"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    65%
                   </div>
                 </div>
               </a>

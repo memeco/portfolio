@@ -7,6 +7,7 @@ function Portfolio() {
     <section id="portfolio" className="py-5">
       <div className="container">
         <h2>Meu portfólio</h2>
+        <p>Meus projetos e repositórios do GitHub:</p>
 
         <ul className="projetos">
           <li>
@@ -28,7 +29,7 @@ function Portfolio() {
           <li>
             <a href="https://memeco.github.io/">
               <h3>Memeco.github.io (2023 ➔ presente)</h3>
-              <p>Este portfólio feito em React no GitHub Pages.</p>
+              <p>Este portfólio feito em React e Boostrap no GitHub Pages.</p>
             </a>
           </li>
           <li>
