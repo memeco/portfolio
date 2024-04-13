@@ -93,6 +93,20 @@ function Certificado() {
               </a>
             </p>
           </li>
+          <li>
+            <p>
+              Abril de 2024 -{" "}
+              <a
+                href="https://imgur.com/a/P5FV19f"
+                onMouseEnter={handleMouseEnter}
+                onMouseLeave={handleMouseLeave}
+                onClick={handleClick}
+                style={{ color: linkColor }}
+              >
+                Certificado Git e GitHub pela PcDDevs.
+              </a>
+            </p>
+          </li>
         </ul>
       </div>
     </section>
