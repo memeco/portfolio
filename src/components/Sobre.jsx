@@ -26,7 +26,8 @@ function Sobre() {
             pelo Google no Coursera
           </a>{" "}
           e desenvolvedor/programador Front-End com React formado&nbsp;
-          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a> .
+          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a> (2023)
+          .
         </p>
         <p>
           Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
@@ -59,7 +60,13 @@ function Sobre() {
         </p>
         <p>
           E aqui está meu{" "}
-          <a href="https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf">
+          <a
+            href="https://github.com/memeco/memeco.github.io/blob/gh-pages/Emerson_Marques_Pedro_CV_2024-PTBr.pdf"
+            rel="noopener noreferrer"
+            target="_blank"
+            alt="Curriculum Vitae"
+            title="Curriculum Vitae"
+          >
             Curriculum Vitae 2024
           </a>
           .
