@@ -53,7 +53,7 @@ function Certificado() {
             <p>
               Agosto de 2023 -{" "}
               <a
-                href="https://www.credly.com/badges/b012a013-6920-427c-8107-68b36145cfd0/linked_in_profile"
+                href="https://www.credly.com/earner/earned/badge/b012a013-6920-427c-8107-68b36145cfd0"
                 onMouseEnter={handleMouseEnter}
                 onMouseLeave={handleMouseLeave}
                 onClick={handleClick}
@@ -75,7 +75,7 @@ function Certificado() {
                 style={{ color: linkColor }}
               >
                 Certificado de conclusão do bootcamp para desenvolvedor
-                Front-End com React e Bootstrap PcD da SoulCode.
+                Front-End com React e Bootstrap PcD da SoulCode Academy.
               </a>
             </p>
           </li>
@@ -103,7 +103,7 @@ function Certificado() {
                 onClick={handleClick}
                 style={{ color: linkColor }}
               >
-                Certificado Git e GitHub pela PcDDevs.
+                Certificado Git e GitHub pela PCDWeb.
               </a>
             </p>
           </li>

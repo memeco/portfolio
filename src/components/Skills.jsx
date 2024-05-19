@@ -65,7 +65,7 @@ function Skills() {
                 <img
                   alt="Bootstrap"
                   title="Bootstrap"
-                  src="https://camo.githubusercontent.com/79fcd49095579192d8a2829492528a98cc9f2ee98ce4fe93ce8306d80a4bafdb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d76352e342e322d626c756576696f6c65742e737667"
+                  src="https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -182,12 +182,12 @@ function Skills() {
                   <div
                     className="progress-bar progress-bar-striped progress-bar-animated bg-success"
                     role="progressbar"
-                    style={{ width: "50%" }}
-                    aria-valuenow="50"
+                    style={{ width: "65%" }}
+                    aria-valuenow="65"
                     aria-valuemin="0"
                     aria-valuemax="100"
                   >
-                    50%
+                    65%
                   </div>
                 </div>
               </a>

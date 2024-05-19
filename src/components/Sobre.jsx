@@ -25,13 +25,14 @@ function Sobre() {
           <a href="https://www.coursera.org/account/accomplishments/professional-cert/BVEHSFR4UNES?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
             pelo Google no Coursera
           </a>{" "}
-          e desenvolvedor/programador Front-End com React formado&nbsp;
+          e desenvolvedor/programador Front-End com React e Bootstrap
+          formado&nbsp;
           <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a> (2023)
           .
         </p>
         <p>
           Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
-          PcDDevs.
+          PCDWeb.
         </p>
         <p>
           Atualmente também estou fazendo o Bootcamp da Microsoft sobre nuvem e
