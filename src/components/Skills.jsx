@@ -81,6 +81,29 @@ function Skills() {
                 </div>
               </a>
             </p>
+
+            <p>
+              <a href="https://tailwindcss.com/">
+                <img
+                  alt="Tailwind"
+                  title="Tailwind"
+                  src="https://camo.githubusercontent.com/60befb8ef9aaf5500eaa1522fcddde634783a3e6977b7c27941ebb123954ab48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e642532304353532d3338423241433f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e642d637373266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "75%" }}
+                    aria-valuenow="75"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    75%
+                  </div>
+                </div>
+              </a>
+            </p>
+
             <p>
               <h4>Linguagens de programação:</h4>
             </p>
@@ -122,6 +145,28 @@ function Skills() {
                     aria-valuemax="100"
                   >
                     80%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://nextjs.org/docs/getting-started">
+                <img
+                  alt="Next.js"
+                  title="Next.js"
+                  src="https://camo.githubusercontent.com/0f7a44de298a6caa693d5c2e343bf32d0ca7f83198103f5aa240009cae6cd877/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "70%" }}
+                    aria-valuenow="70"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    70%
                   </div>
                 </div>
               </a>
