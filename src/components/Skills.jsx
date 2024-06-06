@@ -197,7 +197,7 @@ function Skills() {
             <p>
               <a href="https://www.r-project.org/">
                 <img
-                  src="https://camo.githubusercontent.com/84745b842e44ee05f0a763991cbc8305e02ede0c9efac037dff9daaae0e028fd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d522d626c75652e737667"
+                  src="https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465"
                   alt="R"
                   title="R"
                 />
@@ -221,7 +221,7 @@ function Skills() {
                 <img
                   alt="C#"
                   title="C#"
-                  src="https://camo.githubusercontent.com/7df103f000ac6adb28b73e1d276ef1f79f7cf33b2301bbb86ca2ca0bc6063c8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d446576656c6f7065722d323339313230"
+                  src="https://camo.githubusercontent.com/20b9177e58a90fa0d7b42200f157f22089e4ae9f781ed98293d1de3b69486590/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -243,7 +243,7 @@ function Skills() {
                 <img
                   alt="C"
                   title="C"
-                  src="https://camo.githubusercontent.com/cc76e9164738e46bdad0b7dd2edd9b01c1880147c495cbf240024c2727a1ae4b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d6c616e67756167652d626c7565"
+                  src="https://camo.githubusercontent.com/79cf738a834e1250967162f9ce82ee449077bd7ac32e043b87020fee9efa316b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
@@ -261,11 +261,11 @@ function Skills() {
             </p>
 
             <p>
-              <a href="https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html">
+              <a href="https://www.java.com/">
                 <img
                   alt="Java"
                   title="Java"
-                  src="https://camo.githubusercontent.com/6ea8b31c3fd24755abccfa54d41d20bb7a082bd088562eaf0b11757ad4da2a01/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d382532422d626c75652e737667"
+                  src="https://camo.githubusercontent.com/eb2594a194022f423b18b089fb700911d33513858db79317b06d5209b351a3ba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"
                 />
                 <div className="progress">
                   <div
