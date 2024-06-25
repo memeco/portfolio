@@ -328,6 +328,7 @@ function Skills() {
                 </div>
               </a>
             </p>
+
             <p>
               <a href="https://www.mongodb.com/">
                 <img
@@ -345,6 +346,28 @@ function Skills() {
                     aria-valuemax="100"
                   >
                     70%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://www.microsoft.com/en-us/sql-server">
+                <img
+                  alt="SQL Server"
+                  title="SQL Server"
+                  src="https://camo.githubusercontent.com/de28a052cd8474edf8c1798aa6c264352779dad9f22ddcaaf7a867dcdf32af81/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2532305365727665722d4343323932373f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f667425323073716c253230736572766572266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "60%" }}
+                    aria-valuenow="60"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    60%
                   </div>
                 </div>
               </a>
@@ -398,28 +421,6 @@ function Skills() {
             </p>
 
             <p>
-              <a href="https://code.visualstudio.com">
-                <img
-                  alt="Visual Studio Code Editor"
-                  title="Visual Studio Code Editor"
-                  src="https://camo.githubusercontent.com/e9571766a385ecbc476c8d653278fae6e9df04a233980521c98b2a14762463e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"
-                />
-                <div className="progress">
-                  <div
-                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
-                    role="progressbar"
-                    style={{ width: "90%" }}
-                    aria-valuenow="90"
-                    aria-valuemin="0"
-                    aria-valuemax="100"
-                  >
-                    90%
-                  </div>
-                </div>
-              </a>
-            </p>
-
-            <p>
               <a href="https://wordpress.org/">
                 <img
                   alt="WordPress"
@@ -436,6 +437,28 @@ function Skills() {
                     aria-valuemax="100"
                   >
                     95%
+                  </div>
+                </div>
+              </a>
+            </p>
+
+            <p>
+              <a href="https://code.visualstudio.com">
+                <img
+                  alt="Visual Studio Code Editor"
+                  title="Visual Studio Code Editor"
+                  src="https://camo.githubusercontent.com/e9571766a385ecbc476c8d653278fae6e9df04a233980521c98b2a14762463e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"
+                />
+                <div className="progress">
+                  <div
+                    className="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                    role="progressbar"
+                    style={{ width: "90%" }}
+                    aria-valuenow="90"
+                    aria-valuemin="0"
+                    aria-valuemax="100"
+                  >
+                    90%
                   </div>
                 </div>
               </a>
@@ -540,12 +563,12 @@ function Skills() {
                   <div
                     className="progress-bar progress-bar-striped progress-bar-animated bg-success"
                     role="progressbar"
-                    style={{ width: "70%" }}
-                    aria-valuenow="70"
+                    style={{ width: "85%" }}
+                    aria-valuenow="85"
                     aria-valuemin="0"
                     aria-valuemax="100"
                   >
-                    70%
+                    85%
                   </div>
                 </div>
               </a>

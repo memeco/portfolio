@@ -17,22 +17,23 @@ function Sobre() {
         <br />
         <p>
           Meu nome é Emerson Marques Pedro, também conhecido como "Memeco",
-          tenho 37 anos e sou{" "}
+          tenho 37 anos e sou um Hacker Cívico, campeão de um hackathon do
+          TCE-SP em 2015,{" "}
           <a href="https://i.imgur.com/1M9VA7B.jpg">
-            sociólogo e cientista político pela USP (2010)
+            sociólogo e cientista político pela USP (2006-2010)
           </a>
           , cientista de dados pela Awari (2021), analista de dados certificado{" "}
           <a href="https://www.coursera.org/account/accomplishments/professional-cert/BVEHSFR4UNES?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof">
             pelo Google no Coursera
           </a>{" "}
-          e desenvolvedor/programador Front-End com React e Bootstrap
+          (2023) e desenvolvedor/programador Front-End com React e Bootstrap
           formado&nbsp;
-          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a> (2023)
-          .
+          <a href="https://imgur.com/a/YabEyUk">pela SoulCode Academy</a>{" "}
+          (2023).
         </p>
         <p>
-          Estou fazendo um curso de Dev Full-Stack pela DevStars Tech chamado
-          PCDWeb.
+          Estou fazendo um curso de Desenvolvedor Full Stack pela{" "}
+          <a href="https://devstars.tech/">DevStars Tech</a> chamado PCDWeb.
         </p>
         <p>
           Atualmente também estou fazendo o Bootcamp da Microsoft sobre nuvem e
@@ -46,15 +47,18 @@ function Sobre() {
         </p>
         <p>
           Sou apaixonado por desenvolvimento/programação e música. Já fui à mais
-          de 300 shows, segundo meu{" "}
+          de 320 shows, segundo meu{" "}
           <a href="https://www.setlist.fm/user/memeco">Setlist.fm</a>.
         </p>
         <p>Meu objetivo é aprender e seguir crescendo.</p>
         <p>
-          Tenho cidadania brasileira 🇧🇷 e portuguesa 🇵🇹, com RG e passaporte dos
-          2 países.
+          Tenho cidadania brasileira 🇧🇷 e portuguesa 🇵🇹, com identidade e
+          passaporte dos 2 países.
         </p>
-        <p>Sou PcD, pois tenho esclerose múltipla (CID G 35).</p>
+        <p>
+          Sou PcD, pois tenho esclerose múltipla (CID G 35). Por isso, uso
+          cadeira de rodas.
+        </p>
         <p>
           Aqui você pode encontrar alguns detalhes sobre meus projetos e
           habilidades.

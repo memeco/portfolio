@@ -74,7 +74,7 @@ function Certificado() {
                 onClick={handleClick}
                 style={{ color: linkColor }}
               >
-                Certificado de conclusão do bootcamp para desenvolvedor
+                Certificado de conclusão do Bootcamp para desenvolvedor
                 Front-End com React e Bootstrap PcD da SoulCode Academy.
               </a>
             </p>
@@ -103,7 +103,7 @@ function Certificado() {
                 onClick={handleClick}
                 style={{ color: linkColor }}
               >
-                Certificado Git e GitHub pela PCDWeb.
+                Certificado Git e GitHub pela PcDWeb.
               </a>
             </p>
           </li>
